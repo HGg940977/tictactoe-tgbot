@@ -11,7 +11,7 @@ import sqlite3
 from collections import defaultdict
 
 # -------------------- BOT CONFIGURATION --------------------
-BOT_TOKEN = 'Your_Bot_token'  # Replace with your actual bot token
+BOT_TOKEN = '7947003193:AAFt3rSZ7Ebv6MYTN1ol1aOnGxv2CfRvijk'  # Replace with your actual bot token
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Admin Configuration
