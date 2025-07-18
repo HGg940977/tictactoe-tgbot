@@ -15,7 +15,7 @@ BOT_TOKEN = '7947003193:AAFt3rSZ7Ebv6MYTN1ol1aOnGxv2CfRvijk'  # Replace with you
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Admin Configuration
-ADMIN_IDS = [7393780804]  # Your admin ID
+ADMIN_IDS = [7205867999]  # Your admin ID
 
 # --- Enhanced Constants ---
 EMPTY = "⬜"
